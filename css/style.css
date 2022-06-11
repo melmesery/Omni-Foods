@@ -17,7 +17,7 @@ section {
 
 header {
     min-height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.705)), url(../images/hero.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.705)), url(../Images/hero.jpg);
     background-position: center;
     background-size: cover;
 }
