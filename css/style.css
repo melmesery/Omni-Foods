@@ -215,7 +215,7 @@ hr {
 }
 
 .testimonials {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.705)), url(../images/back-customers.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.705), rgba(0, 0, 0, 0.705)), url(../Images/back-customers.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
